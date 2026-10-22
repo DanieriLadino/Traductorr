@@ -1,5 +1,6 @@
 streamlit
 bokeh==2.4.3
+numpy==1.26.4
 streamlit-bokeh-events
 gTTS
 googletrans==4.0.0rc1
