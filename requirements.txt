@@ -1,5 +1,6 @@
 streamlit
-opencv-python-headless
-pytesseract
+bokeh==2.4.3
+streamlit-bokeh-events
+gTTS
+googletrans==4.0.0rc1
 Pillow
-numpy
